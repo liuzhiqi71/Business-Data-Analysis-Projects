@@ -1,1 +1,1 @@
-It shows some python data analysis projests, welcome comments and suggestions!
+It showcases my data and business analysis projects, and I welcome any comments and suggestions!
