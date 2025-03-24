@@ -59,3 +59,5 @@ abline(lm_model, col = "black")  # Regression line in black
 legend("topright", legend = c("BTC Returns", "SPY Returns", "Regression Line"), 
        col = c("#31a354", "red", "black"), pch = c(16, 1, NA), lty = c(NA, NA, 1))
 dev.off()
+
+
